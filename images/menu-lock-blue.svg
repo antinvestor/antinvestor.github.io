@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="12px" viewBox="0 0 9 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menu-dark" transform="translate(-1085.000000, -46.000000)" fill="#2BA8FF" fill-rule="nonzero">
+            <g id="Group-10" transform="translate(1073.000000, 31.000000)">
+                <g id="Group-8" transform="translate(12.000000, 11.000000)">
+                    <g id="lock" transform="translate(0.000000, 4.000000)">
+                        <path d="M8.5,4 L7.5,4 L7.5,3 C7.5,1.3455 6.1545,0 4.5,0 C2.8455,0 1.5,1.3455 1.5,3 L1.5,4 L0.5,4 C0.224,4 0,4.224 0,4.5 L0,11.5 C0,11.776 0.224,12 0.5,12 L8.5,12 C8.776,12 9,11.776 9,11.5 L9,4.5 C9,4.224 8.776,4 8.5,4 Z M5,8.908 L5,10 L4,10 L4,8.908 C3.4195,8.701 3,8.151 3,7.5 C3,6.673 3.673,6 4.5,6 C5.327,6 6,6.673 6,7.5 C6,8.151 5.581,8.701 5,8.908 Z M6.5,4 L2.5,4 L2.5,3 C2.5,1.897 3.397,1 4.5,1 C5.603,1 6.5,1.897 6.5,3 L6.5,4 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
